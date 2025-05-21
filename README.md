@@ -1,6 +1,8 @@
 # Hexagonal Product API
 
-API REST para gerenciamento de produtos desenvolvida com Spring Boot 3 e Java 17, seguindo a arquitetura hexagonal (ports and adapters) e princípios SOLID.
+OBS> Projeto feito usando Cursor com Claude 3.7-sonnet, criei esse projeto para experimentar a ferramenta, atendeu bem as expectativa espera menos, mas gostei só interação pelo chat detalhando o projeto, arquitetura, passando os padrões a serem usados, faltou os testes, logo vou esperimentar a criação dos testes.
+
+API REST para gerenciamento de produtos desenvolvida com Spring Boot 3 e Java 17, seguindo a arquitetura hexagonal (ports and adapters) e princípios SOLID. 
 
 ## Tecnologias
 
